@@ -18,7 +18,6 @@ Currently nearing the end of a 3 year integrated degree apprenticeship in Data S
 #### How have significant periods of social unrest between 1991 and 2022 impacted reported hate crime rates in the United States, and what are the projected trends for 2030 - public dataset
 
 This project examines the connection between periods of social unrest and reported hate crimes in the USA over a 30-year period. Understanding this relationship is vital for policymakers, law enforcement, and community leaders who seek to address and reduce these detrimental acts.
-
 [Project](https://github.com/Krsetyi/Hate-Crime/tree/main)
 
 #### Effectiveness of existing stategies aimed at reducing additional usage by the end of the financial year - private dataset
