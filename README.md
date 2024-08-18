@@ -19,6 +19,8 @@ Currently nearing the end of a 3 year integrated degree apprenticeship in Data S
 
 This project examines the connection between periods of social unrest and reported hate crimes in the USA over a 30-year period. Understanding this relationship is vital for policymakers, law enforcement, and community leaders who seek to address and reduce these detrimental acts.
 
+[Project](https://github.com/Krsetyi/Hate-Crime/tree/main)
+
 #### Effectiveness of existing stategies aimed at reducing additional usage by the end of the financial year - private dataset
 
 This evaluation assesses the effectiveness of current strategies designed to reduce additional usage by the end of the financial year. The Trust has committed to NHS England to decrease the number of bank and agency shifts by the financial year's end, with the goal of reducing overall expenditure.
