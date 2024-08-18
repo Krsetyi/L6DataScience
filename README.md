@@ -1,4 +1,8 @@
-# Portfolio
+# Data Scientist
+
+Currently nearing the end of a 3 year integrated degree apprenticeship in Data Science
+
+# Portfolio 
 
 ## Year 1 Term 3 Professional Practice
 
